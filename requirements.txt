@@ -1,8 +1,8 @@
-pandas~=1.0.4
-numpy~=1.18.5
-seaborn~=0.10.1
-matplotlib~=3.2.1
-scikit-learn~=0.23.1
-scipy~=1.4.1
-MiniSom~=2.2.5
-tensorflow>=2.5.1
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+scipy
+MiniSom
+tensorflow
